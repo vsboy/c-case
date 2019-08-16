@@ -1,0 +1,33 @@
+C:\Users\Administrator\Desktop\excel改分\excel改分\bin\Debug\excel改分.exe
+C:\Users\Administrator\Desktop\excel改分\excel改分\bin\Debug\excel改分.pdb
+C:\Users\Administrator\Desktop\excel改分\excel改分\obj\x86\Debug\excel改分.Form1.resources
+C:\Users\Administrator\Desktop\excel改分\excel改分\obj\x86\Debug\excel改分.Properties.Resources.resources
+C:\Users\Administrator\Desktop\excel改分\excel改分\obj\x86\Debug\excel改分.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\excel改分\excel改分\obj\x86\Debug\excel改分.exe
+C:\Users\Administrator\Desktop\excel改分\excel改分\obj\x86\Debug\excel改分.pdb
+C:\Users\Administrator\Desktop\excel改分\excel改分\obj\x86\Debug\Interop.WinHttp.dll
+C:\Users\Administrator\Desktop\excel改分\excel改分\obj\x86\Debug\excel改分.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\excel改分2.0\excel改分\bin\Debug\excel改分.exe
+C:\Users\Administrator\Desktop\excel改分2.0\excel改分\bin\Debug\excel改分.pdb
+C:\Users\Administrator\Desktop\excel改分2.0\excel改分\obj\x86\Debug\Interop.WinHttp.dll
+C:\Users\Administrator\Desktop\excel改分2.0\excel改分\obj\x86\Debug\excel改分.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\excel改分2.0\excel改分\obj\x86\Debug\excel改分.Form1.resources
+C:\Users\Administrator\Desktop\excel改分2.0\excel改分\obj\x86\Debug\excel改分.Properties.Resources.resources
+C:\Users\Administrator\Desktop\excel改分2.0\excel改分\obj\x86\Debug\excel改分.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\excel改分2.0\excel改分\obj\x86\Debug\excel改分.exe
+C:\Users\Administrator\Desktop\excel改分2.0\excel改分\obj\x86\Debug\excel改分.pdb
+F:\nextcloud\C#\C#案例\excel改分3.0\excel改分\obj\x86\Debug\Interop.WinHttp.dll
+F:\nextcloud\C#\C#案例\excel改分3.0\excel改分\obj\x86\Debug\excel改分.csproj.ResolveComReference.cache
+F:\nextcloud\C#\C#案例\excel改分3.0\excel改分\obj\x86\Debug\excel改分.exe
+F:\nextcloud\C#\C#案例\excel改分3.0\excel改分\obj\x86\Debug\excel改分.pdb
+C:\Users\David Ghul\Desktop\C#\C#案例\excel改分3.0\excel改分\bin\Debug\excel改分.exe
+C:\Users\David Ghul\Desktop\C#\C#案例\excel改分3.0\excel改分\bin\Debug\excel改分.pdb
+C:\Users\David Ghul\Desktop\C#\C#案例\excel改分3.0\excel改分\obj\x86\Debug\excel改分.csprojAssemblyReference.cache
+C:\Users\David Ghul\Desktop\C#\C#案例\excel改分3.0\excel改分\obj\x86\Debug\Interop.WinHttp.dll
+C:\Users\David Ghul\Desktop\C#\C#案例\excel改分3.0\excel改分\obj\x86\Debug\excel改分.csproj.ResolveComReference.cache
+C:\Users\David Ghul\Desktop\C#\C#案例\excel改分3.0\excel改分\obj\x86\Debug\excel改分.Form1.resources
+C:\Users\David Ghul\Desktop\C#\C#案例\excel改分3.0\excel改分\obj\x86\Debug\excel改分.Properties.Resources.resources
+C:\Users\David Ghul\Desktop\C#\C#案例\excel改分3.0\excel改分\obj\x86\Debug\excel改分.csproj.GenerateResource.cache
+C:\Users\David Ghul\Desktop\C#\C#案例\excel改分3.0\excel改分\obj\x86\Debug\excel改分.csproj.CoreCompileInputs.cache
+C:\Users\David Ghul\Desktop\C#\C#案例\excel改分3.0\excel改分\obj\x86\Debug\excel改分.exe
+C:\Users\David Ghul\Desktop\C#\C#案例\excel改分3.0\excel改分\obj\x86\Debug\excel改分.pdb

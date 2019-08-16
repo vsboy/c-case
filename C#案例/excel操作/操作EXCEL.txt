@@ -1,0 +1,21 @@
+C#操作Excel文件三种方式
+http://blog.sina.com.cn/s/blog_989218ad0102wv3v.html
+
+
+未在本地计算机上注册“microsoft.ACE.oledb.12.0”提供程序解决办法
+https://www.cnblogs.com/willingtolove/p/9630485.html
+
+
+C#操作Excel总结
+https://www.cnblogs.com/wang_yb/articles/1750419.html
+
+
+C# 各种导入 Excel 文件的数据的方法总结
+https://www.cnblogs.com/Brambling/p/6886221.html
+
+
+C#操作Excel
+https://www.cnblogs.com/JacobHuang/p/5663926.html
+
+
+https://www.cnblogs.com/schumi-lds/articles/3057058.html

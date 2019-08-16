@@ -1,0 +1,49 @@
+sql：增删改查
+查：select 字段 from 表名 where 条件(and ,or)
+1、筛选用户表中所有数据
+	select * from qq_User
+2、筛选用户表中用户ID为10000的用户所有数据
+	select * from qq_User  where userId=10000
+3、筛选用户表中用户ID为10000的用户用户ID和密码
+	select userId ,userPwd from qq_User  where userId=10000
+4、筛选用户表中ID为10000和10002的用户所有数据
+	select * from qq_User where userId=10000 or userId=10002
+
+
+删：delete from 表名 where 条件
+1、删除10000号的好友：10544号
+
+DELETE FROM qq_Friends
+WHERE hostId = 10000
+AND friendId = 10544
+
+增:insert into 表名(字段名) values() 返回值为影响的行数
+insert into 表名(字段名) values() select @@identity返回值为添加的一行的标识
+
+1、向好友表中插入10000号的好友：10544
+insert into qq_Friends(hostId,friendId,state) 
+values(10000,10544,1);
+2、10000号向10549发送了一条消息“在不在，吃饭了吗”
+insert into qq_Messages
+(fromId,toId,mInfo,state)
+values(10000,10549,'在不在，吃饭了吗',0)
+
+改（更新）：update 表名 set 
+字段名=值,字段名=值  where 条件
+10549阅读了10000号发送的消息
+update qq_Messages set state=1 
+where fromId=10000 and toId=10549
+
+
+练习:
+1、注册了一个QQ号码：密码(123456)\昵称（思思）\真实姓名（斯斯）\个性签名（今天大家好努力）（insert）
+
+
+2、10549回复10000号：没吃呢，你请我吃吧！（insert）
+
+3、10000号阅读了10549的回复信息（update）
+
+4、查询10000号所有好友（select）
+
+
+

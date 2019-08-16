@@ -1,0 +1,20 @@
+使用重绘项美化WinForm中的控件：组合框为例
+https://www.cnblogs.com/diulela/archive/2012/06/23/2559167.html
+
+C#自定义控件在添加引用后不显示在工具箱的解决方法
+https://www.cnblogs.com/daoge/p/4505660.html
+
+
+WinForm创建自定义控件（简单）
+https://blog.csdn.net/wangzl1163/article/details/71107560
+
+WinForm创建自定义控件（复杂）
+https://blog.csdn.net/wang463584281/article/details/50720683
+
+C# 自定义控件制作和使用实例（课堂例子1：图片信息显示）
+https://blog.csdn.net/xiongxuanwen/article/details/2605109
+C# 自定义控件制作和使用实例（课堂例子2：颜色选取面板--属性与事件设置）
+https://wenku.baidu.com/view/bb48f2f477a20029bd64783e0912a21614797fa1.html
+
+钟表
+https://www.cnblogs.com/yelanggu/p/6224587.html

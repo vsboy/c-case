@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\图片信息\图片信息\bin\Debug\图片信息.dll
+C:\Users\Administrator\Desktop\图片信息\图片信息\bin\Debug\图片信息.pdb
+C:\Users\Administrator\Desktop\图片信息\图片信息\obj\Debug\图片信息.photo.resources
+C:\Users\Administrator\Desktop\图片信息\图片信息\obj\Debug\图片信息.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\图片信息\图片信息\obj\Debug\图片信息.dll
+C:\Users\Administrator\Desktop\图片信息\图片信息\obj\Debug\图片信息.pdb

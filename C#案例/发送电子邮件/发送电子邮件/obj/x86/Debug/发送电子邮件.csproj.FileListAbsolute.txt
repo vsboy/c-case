@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\发送电子邮件\发送电子邮件\bin\Debug\发送电子邮件.exe
+C:\Users\Administrator\Desktop\发送电子邮件\发送电子邮件\bin\Debug\发送电子邮件.pdb
+C:\Users\Administrator\Desktop\发送电子邮件\发送电子邮件\obj\x86\Debug\发送电子邮件.Form1.resources
+C:\Users\Administrator\Desktop\发送电子邮件\发送电子邮件\obj\x86\Debug\发送电子邮件.Properties.Resources.resources
+C:\Users\Administrator\Desktop\发送电子邮件\发送电子邮件\obj\x86\Debug\发送电子邮件.send.resources
+C:\Users\Administrator\Desktop\发送电子邮件\发送电子邮件\obj\x86\Debug\发送电子邮件.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\发送电子邮件\发送电子邮件\obj\x86\Debug\发送电子邮件.exe
+C:\Users\Administrator\Desktop\发送电子邮件\发送电子邮件\obj\x86\Debug\发送电子邮件.pdb

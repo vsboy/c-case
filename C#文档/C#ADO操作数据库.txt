@@ -1,0 +1,33 @@
+1、连接数据库
+连接字符串：数据源（本机.），数据库Initial Catalog（MyQQ2），验证方式integrated security（SSPI）
+
+string ConnectionString = "Data Source=.;Initial Catalog=MyQQ2;integrated security=SSPI";       
+使用连接字符串创建数据库连接对象SqlConnection 
+(命名空间)
+SqlConnection conn = new SqlConnection(ConnectionString);
+
+
+2、打开连接
+    conn.Open();
+
+3、数据库访问——使用Command对象执行SQL语句，实现对数据库的访问操作
+ 
+string strSql = string.Format("select userId,userPwd from  qq_User where userId='{0}' and userPwd='{1}'",textBox1.Text ,textBox2.Text);//SQL语句的生成
+
+
+SqlCommand comd = new SqlCommand(strSql,conn);//生成执行SQL语句的命令
+object cont = comd.ExecuteScalar();//执行命令，返回结果
+
+
+if (cont != null)
+     MessageBox.Show("登陆成功", "提示");//使用结果进行判断
+
+
+4、关闭连接
+    conn.Close();
+
+
+
+string sqlStr = "select * from qq_User where userId="+textBox1.Text+" and userPwd="+textBox2.Text ;
+
+

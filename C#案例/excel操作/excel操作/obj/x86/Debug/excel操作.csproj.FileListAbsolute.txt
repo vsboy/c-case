@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\excel操作\excel操作\bin\Debug\excel操作.exe
+C:\Users\Administrator\Desktop\excel操作\excel操作\bin\Debug\excel操作.pdb
+C:\Users\Administrator\Desktop\excel操作\excel操作\obj\x86\Debug\excel操作.Form1.resources
+C:\Users\Administrator\Desktop\excel操作\excel操作\obj\x86\Debug\excel操作.Properties.Resources.resources
+C:\Users\Administrator\Desktop\excel操作\excel操作\obj\x86\Debug\excel操作.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\excel操作\excel操作\obj\x86\Debug\excel操作.exe
+C:\Users\Administrator\Desktop\excel操作\excel操作\obj\x86\Debug\excel操作.pdb
+C:\Users\Administrator\Desktop\excel操作\excel操作\obj\x86\Debug\excel操作.csproj.ResolveComReference.cache

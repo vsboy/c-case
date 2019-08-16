@@ -1,0 +1,28 @@
+1、为什么需要用户实体类？不需要可以吗？
+2、用户实体类user.cs：封装用户的所有信息（成员），不包含操作（方法）
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace QQTest
+{
+    class user
+    {
+        public string UserID { get; set; }
+        public string userPwd { get; set; }
+        public string nickName { get; set; }
+        public string realName { get; set; }
+        public string personalMsg { get; set; }
+        public int age { get; set; }
+        public string sex { get; set; }
+        public string email { get; set; }
+        public int face { get; set; }
+        public DateTime regTime { get; set; }
+        public int userType { get; set; }
+        public string studentID { get; set; }
+        public string appid { get; set; }
+    }
+}

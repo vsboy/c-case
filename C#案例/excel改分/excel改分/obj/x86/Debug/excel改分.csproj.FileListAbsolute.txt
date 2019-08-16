@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\excel改分\excel改分\bin\Debug\excel改分.exe
+C:\Users\Administrator\Desktop\excel改分\excel改分\bin\Debug\excel改分.pdb
+C:\Users\Administrator\Desktop\excel改分\excel改分\obj\x86\Debug\excel改分.Form1.resources
+C:\Users\Administrator\Desktop\excel改分\excel改分\obj\x86\Debug\excel改分.Properties.Resources.resources
+C:\Users\Administrator\Desktop\excel改分\excel改分\obj\x86\Debug\excel改分.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\excel改分\excel改分\obj\x86\Debug\excel改分.exe
+C:\Users\Administrator\Desktop\excel改分\excel改分\obj\x86\Debug\excel改分.pdb
+C:\Users\Administrator\Desktop\excel改分\excel改分\obj\x86\Debug\Interop.WinHttp.dll
+C:\Users\Administrator\Desktop\excel改分\excel改分\obj\x86\Debug\excel改分.csproj.ResolveComReference.cache

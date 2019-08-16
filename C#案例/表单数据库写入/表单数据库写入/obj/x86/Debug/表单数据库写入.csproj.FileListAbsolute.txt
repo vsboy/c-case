@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\表单数据库写入\表单数据库写入\表单数据库写入\bin\Debug\表单数据库写入.exe
+C:\Users\Administrator\Desktop\表单数据库写入\表单数据库写入\表单数据库写入\bin\Debug\表单数据库写入.pdb
+C:\Users\Administrator\Desktop\表单数据库写入\表单数据库写入\表单数据库写入\obj\x86\Debug\表单数据库写入.Form1.resources
+C:\Users\Administrator\Desktop\表单数据库写入\表单数据库写入\表单数据库写入\obj\x86\Debug\表单数据库写入.Properties.Resources.resources
+C:\Users\Administrator\Desktop\表单数据库写入\表单数据库写入\表单数据库写入\obj\x86\Debug\表单数据库写入.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\表单数据库写入\表单数据库写入\表单数据库写入\obj\x86\Debug\表单数据库写入.exe
+C:\Users\Administrator\Desktop\表单数据库写入\表单数据库写入\表单数据库写入\obj\x86\Debug\表单数据库写入.pdb

@@ -1,0 +1,9 @@
+邮件收发（讲解详细、深入、全面、专业）
+	C#邮件发送问题（一）
+	https://www.cnblogs.com/qingspace/p/3732675.html
+	C#邮件发送问题（二）
+	http://www.cnblogs.com/qingspace/p/3732677.html
+
+
+c# 局域网文件传输实例
+https://www.cnblogs.com/zzjbk/p/5384911.html

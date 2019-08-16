@@ -1,0 +1,90 @@
+1、为什么要把数据库的操作封装为类？
+   （1）体现面向对象的概念
+   （2）有利于代码的复用（不需要每次都写所有的连接、操作等代码）
+2、如何封装？（包含连接、数据库各种增删改查方法的实现、不同的返回结果的方法）
+    （1）在项目中添加项（类）sqlHelper.cs
+    （2）定义共有的成员
+    （3）定义不同操作以及不同返回值的方法
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Data;
+using System.Data.SqlClient;
+
+namespace QQTest
+{
+    class sqlHelper
+    {
+        private static string connectionStr = "Data Source=.;Initial Catalog=MyQQ2;integrated security=SSPI";
+        private static SqlConnection conn;
+        private static SqlCommand comd;
+        
+        public sqlHelper()
+        {
+            conn = new SqlConnection(connectionStr);
+            conn.Open(); 
+        }
+        //执行查询，返回结果集中的第一行第一列
+        public object ExcScalar(string sqlStr)
+        {
+            if (conn.State == System.Data.ConnectionState.Closed)
+                conn.Open();
+            comd = new SqlCommand(sqlStr, conn);
+            object o = comd.ExecuteScalar();
+            conn.Close();
+            return o;
+        }
+        //执行增删改非查询操作,返回受影响的行数
+        public int ExcNonQuary(string sqlStr)
+        {
+            if (conn.State == System.Data.ConnectionState.Closed)
+                conn.Open();
+            comd = new SqlCommand(sqlStr, conn);
+            int num = comd.ExecuteNonQuery();
+            conn.Close();
+            return num;
+        }
+        //执行查询操作,返回SqlDataReader
+        public SqlDataReader ExcDataReader(string sqlStr)
+        {
+           
+            if (conn.State == System.Data.ConnectionState.Closed)
+                conn.Open();
+            comd = new SqlCommand(sqlStr, conn);
+            SqlDataReader sdr = comd.ExecuteReader();
+            return sdr;
+        }
+        //执行查询操作,返回DataSet_数据集
+        public DataSet ExcDataSet(string sqlStr)
+        {
+            DataSet ds = new DataSet();
+            if (conn.State == System.Data.ConnectionState.Closed)
+                conn.Open();
+            SqlDataAdapter sda = new SqlDataAdapter(sqlStr, conn);
+            sda.Fill(ds);
+            conn.Close();
+            return ds;
+        }
+        //执行查询操作,依据用户ID返回一位user信息
+        public user userInfo(string userId)
+        {
+            user user=new user();
+            string sqlStr = string.Format("select * from qq_User where userId='{0}'",userId);
+            SqlDataReader sdr = ExcDataReader(sqlStr);
+            sdr.Read();
+            user.UserID = sdr[0].ToString();
+            user.userPwd = sdr[1].ToString();
+            user.nickName = sdr[2].ToString();
+            user.realName = sdr[3].ToString();
+            user.personalMsg = sdr[4].ToString();
+            user.age =Convert.ToInt16(sdr[5]);
+            user.sex = sdr[6].ToString();
+            user.email=sdr[7].ToString();
+            user.face = Convert.ToInt16(sdr[8]);
+            
+            return user;
+        }
+    }
+}

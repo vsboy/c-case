@@ -1,0 +1,31 @@
+select * from qq_User
+//查询qq_User所有数据
+
+select * from qq_User where userId=10000
+//查询qq_User中userId=10000所有数据
+
+select userId,userPwd from qq_User where userId=10000
+//只要第10000的账户密码
+
+select * from qq_User where userId=10000 or userId=10002
+//userId=10000和10002所有数据
+
+
+delete from qq_Friends where hostId=10000 and friendId=10544
+//删除10000的好友10544
+
+
+insert into qq_Friends(hostId,friendId,state) values(10000,10544,1)
+//10000添加10544好友
+
+insert into qq_Friends(hostId,friendId,state) values(10000,10544,1)
+select @@IDENTITY
+//identity返回自增号
+
+insert into qq_Messages(fromId,toId,mInfo,state) values(10000,10549,'吃饭了吗',0)
+//10000给10549发‘吃饭了吗’
+
+
+update qq_Messages set state=1
+where fromId=10000 and toId=10549
+//发送消息已读

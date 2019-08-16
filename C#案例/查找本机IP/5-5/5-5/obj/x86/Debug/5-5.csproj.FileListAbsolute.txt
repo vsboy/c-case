@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\5-5\5-5\bin\Debug\5-5.exe
+C:\Users\Administrator\Desktop\5-5\5-5\bin\Debug\5-5.pdb
+C:\Users\Administrator\Desktop\5-5\5-5\obj\x86\Debug\_5_5.Form1.resources
+C:\Users\Administrator\Desktop\5-5\5-5\obj\x86\Debug\_5_5.Properties.Resources.resources
+C:\Users\Administrator\Desktop\5-5\5-5\obj\x86\Debug\5-5.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\5-5\5-5\obj\x86\Debug\5-5.exe
+C:\Users\Administrator\Desktop\5-5\5-5\obj\x86\Debug\5-5.pdb

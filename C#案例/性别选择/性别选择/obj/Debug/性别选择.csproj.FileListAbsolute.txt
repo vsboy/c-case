@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\性别选择\性别选择\bin\Debug\性别选择.dll
+C:\Users\Administrator\Desktop\性别选择\性别选择\bin\Debug\性别选择.pdb
+C:\Users\Administrator\Desktop\性别选择\性别选择\obj\Debug\性别选择.UserControl1.resources
+C:\Users\Administrator\Desktop\性别选择\性别选择\obj\Debug\性别选择.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\性别选择\性别选择\obj\Debug\性别选择.dll
+C:\Users\Administrator\Desktop\性别选择\性别选择\obj\Debug\性别选择.pdb
